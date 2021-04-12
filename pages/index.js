@@ -11,9 +11,9 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-                  Read{' '}
+                  Nice to meet you,{' '}
                   <Link href="/posts/first-post">
-                      <a>this page!</a>
+                      <a>I'm Gibyung!</a>
                   </Link>
         </h1>
 
